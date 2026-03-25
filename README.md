@@ -11,16 +11,17 @@
 
 <p align="center">
   <a href="https://github.com/12207480?tab=followers">
-    <img src="https://img.shields.io/github/followers/12207480?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/12207480?style=social" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/12207480?tab=repositories">
-    <img src="https://img.shields.io/github/stars/12207480?style=for-the-badge" alt="Total Stars" />
+    <img src="https://img.shields.io/github/stars/12207480?style=social" alt="Total Stars" />
   </a>
-  <a href="https://github.com/12207480?tab=repositories">
-    <img src="https://img.shields.io/badge/Open%20Source-Active-2ea44f?style=for-the-badge" alt="Open Source Active" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-iOS%20%7C%20macOS%20%7C%20tvOS-0A84FF?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Specialty-UI%20%7C%20Media%20%7C%20Architecture-6f42c1?style=for-the-badge" alt="Specialty" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apple%20Platforms-iOS%20%7C%20macOS%20%7C%20tvOS-black?style=flat-square" alt="Apple Platforms" />
+  <img src="https://img.shields.io/badge/Focus-UI%20%7C%20Media%20%7C%20Architecture-0A84FF?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20Source-Builder-2ea44f?style=flat-square" alt="Open Source" />
 </p>
 
 ---
