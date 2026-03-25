@@ -12,13 +12,15 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=12207480&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+### 📊 GitHub Stats
 
-- 👋 Hello,World!
-- 👀 Focusing on Objective-C & Swift & iOS
-- 🌱 I’m currently learning ...
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=12207480&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12207480&layout=compact&bg_color=00000000&hide_border=true&text_color=718096&langs_count=6" alt="Top Langs" />
+</p>
 
-<!---
-12207480/12207480 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<p align="center">
+  <i>"好的代码不需要解释，但好的架构值得反复推敲。"</i>
+</p>
