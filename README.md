@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/12207480?label=Followers&style=for-the-badge" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/12207480?tab=repositories">
-    <img src="https://img.shields.io/badge/Stars-11.7k-F6C343?style=for-the-badge" alt="Total Stars" />
+    <img src="https://img.shields.io/github/stars/12207480?style=for-the-badge" alt="Total Stars" />
   </a>
   <a href="https://github.com/12207480?tab=repositories">
     <img src="https://img.shields.io/badge/Open%20Source-Active-2ea44f?style=for-the-badge" alt="Open Source Active" />
