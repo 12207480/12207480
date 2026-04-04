@@ -75,15 +75,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=12207480&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12207480&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## Engineering Principles
 
 > 好的代码不需要解释，
